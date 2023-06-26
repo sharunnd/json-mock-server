@@ -2,6 +2,7 @@
     "jobs": [
         {
             "company": "Ellette",
+            "image":"https://placehold.co/600x400",
             "postedAt": "2021-03-30",
             "city": "Gangtok",
             "location": "American Samoa",
@@ -13,6 +14,7 @@
         },
         {
             "company": "Jinny",
+            "image":"https://placehold.co/600x400",
             "postedAt": "2021-09-09",
             "city": "Ludhiana",
             "location": "Belgium",
