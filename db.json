@@ -1,6 +1,6 @@
 {
     "jobs": [
-        {
+        {   "id":1,
             "company": "Ellette",
             "image":"https://placehold.co/400",
             "postedAt": "2021-03-30",
@@ -12,7 +12,7 @@
             "position": " Backend Developer",
             "language": "Java"
         },
-        {
+        {   "id":2,
             "company": "Jinny",
             "image":"https://placehold.co/400",
             "postedAt": "2021-09-09",
